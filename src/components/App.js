@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import '../styles/App.css';
-
+//i
 const App = () => {
   const [category, setCategory] = useState("general");
   const [newsData, setNewsData] = useState([]);
